@@ -16,7 +16,7 @@ a {
     border: 5px solid white;
     margin: 0 auto;
 }
-/* format / size / border distance / border style - header */
+/* format / size / border distance / border style - body blocks */
 .block {
     display: block;
     width: 600px;
